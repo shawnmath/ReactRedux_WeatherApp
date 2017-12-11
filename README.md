@@ -1,4 +1,6 @@
-### Blog App using React & Redux
+### Weather App using React & Redux
+
+- uses openweathermap.org API
 
 To run:
 - npm install
